@@ -2,7 +2,7 @@
 Osee Go Stream Switcher Simulator application - act like the real switcher - for Tally System development
 
 Osee GoStream Simulator. 
-I used to test my Tally System but sometimes I need to test it multiple System at the same time. This software will act as Osee Switcher but only limited to Program, Preview, Cut, Auto only. Run smoothly with Osee Go Stream Desktop Windows/Mac App, Smart Tally App. It will Available on Windows, Mac, and Linux. 
+I used to test my Tally System but sometimes I need to test it multiple System at the same time. This software will act as Osee Switcher but only limited to Program, Preview, Cut, Auto only. Run smoothly with Osee Go Stream Desktop Windows/Mac App, Smart Tally App. Available on Windows, Mac, and Linux. 
 
 Use same port as ogsd at : 19010
 
