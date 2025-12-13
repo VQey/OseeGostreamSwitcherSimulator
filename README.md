@@ -17,7 +17,7 @@ You can use as Switcher experience before you buy the real switcher. but REMEMBE
 
 The release Version:
 
-Windows Final Version 4.9c
+Windows Final Version 5.1.c
 
 Mac Final Version 4.9a
 
