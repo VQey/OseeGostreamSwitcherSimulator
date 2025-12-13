@@ -11,7 +11,7 @@ I used to test my Tally System but sometimes I need to test it multiple System a
 
 Use same port as ogsd at : 19010
 
-Now with SuperSources and fully working TCP and UDP Tally New Protocol (Deck / Duet v.2.3.0 and above)
+Now with MultiSources and fully working TCP and UDP Tally New Protocol (Deck / Duet v.2.3.0 and above)
 
 You can use as Switcher experience before you buy the real switcher. but REMEMBER! This app are not presenting as the Real Switcher works, its all way better the Switcher than this simulator. Suit for anybody want to build and test or sell Osee tally system.
 
