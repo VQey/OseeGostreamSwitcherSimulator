@@ -1,4 +1,4 @@
-![Screenshot (30)](https://github.com/user-attachments/assets/ec49b049-fa4b-4413-b82d-6f54aacf197d)
+![Screenshot (30)](https://raw.githubusercontent.com/VQey/OseeGostreamSwitcherSimulator/refs/heads/main/Screenshot%20(79).png)
 
 # OseeGostreamSwitcherSimulator
 Osee Go Stream Switcher Simulator application - act like the real switcher - for Tally System development
